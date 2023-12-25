@@ -1,0 +1,27 @@
+.min-height{
+    min-height: 100vh;
+}
+.bg-red{
+    background-color: red;
+}
+.flex{
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.flex-row{
+    flex-direction: row;
+}
+.justify-center{
+    justify-content: center;
+}
+.justify-between{
+    justify-content: space-between;
+}
+.items-center{
+    align-items: center;
+}
+.font-bold{
+    font-weight: bold;
+}
